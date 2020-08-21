@@ -45,6 +45,10 @@ Après avoir obtenu une tabe de données extraite du site. Il a fallu nettoyer c
 
 # Analyse de données
 Après ces étapes, nous avons pu analyser quelques notions qui nous semblait importantes. Voici quelques exemples ci-dessous.
+ ![alt text](https://github.com/RomainLeclair/Analyse_Ligue1/blob/master/VainqueurL1.png)
 
+ ![alt text](https://github.com/RomainLeclair/Analyse_Ligue1/blob/master/EvolutionVictoire.png)
+ 
+ ![alt text](https://github.com/RomainLeclair/Analyse_Ligue1/blob/master/CartonRouge.png)
 
 
