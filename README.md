@@ -15,7 +15,7 @@ Nous avons utilisés les données de la Ligue1 qui allait de la saison 1995-1996
 
 **Packages**: pandas, numpy, matplotlib, time, requests, bs4
 
-**Beautifoul Soup **: https://pypi.org/project/beautifulsoup4/
+**Beautifoul Soup**: https://pypi.org/project/beautifulsoup4/
 
 **Flask Porduction**: https://flask.palletsprojects.com/en/1.1.x/
 
